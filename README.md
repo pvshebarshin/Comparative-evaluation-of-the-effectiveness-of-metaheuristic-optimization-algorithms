@@ -1,1 +1,2 @@
 # Comparative-evaluation-of-the-effectiveness-of-metaheuristic-optimization-algorithms
+This project compares metaheuristic optimization algorithms. The project supports algorithms: Artificial Bee Colony, Ant Colony Optimization Continuous, Biogeography-Based Optimization, Culture Algorithm, Genetic Algorithm, Harris Hawks Optimization, Invasive Weed Optimization. The project presents calculations of 10 for each parameter, so as not to take up a lot of space.
